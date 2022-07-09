@@ -1,0 +1,839 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "106",
+        "season": "2021"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 106,
+                "name": "Ekstraklasa",
+                "country": "Poland",
+                "logo": "https:\/\/media.api-sports.io\/football\/leagues\/106.png",
+                "flag": "https:\/\/media.api-sports.io\/flags\/pl.svg",
+                "season": 2021,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 3491,
+                                "name": "Rak\u00f3w Cz\u0119stochowa",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/3491.png"
+                            },
+                            "points": 65,
+                            "goalsDiff": 28,
+                            "group": "Ekstraklasa",
+                            "form": "WWWDW",
+                            "status": "up",
+                            "description": "UEFA Champions League Qualifiers",
+                            "all": {
+                                "played": 31,
+                                "win": 19,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 28
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 347,
+                                "name": "Lech Poznan",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/347.png"
+                            },
+                            "points": 65,
+                            "goalsDiff": 40,
+                            "group": "Ekstraklasa",
+                            "form": "WWWDW",
+                            "status": "down",
+                            "description": "UEFA Conference League Qualifiers",
+                            "all": {
+                                "played": 31,
+                                "win": 19,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 21
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 12,
+                                "draw": 3,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 6
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 15
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 348,
+                                "name": "Pogon Szczecin",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/348.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": 32,
+                            "group": "Ekstraklasa",
+                            "form": "WLWLW",
+                            "status": "same",
+                            "description": "UEFA Conference League Qualifiers",
+                            "all": {
+                                "played": 31,
+                                "win": 18,
+                                "draw": 8,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 60,
+                                    "against": 28
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 11,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 11
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 343,
+                                "name": "Lechia Gdansk",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/343.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": 15,
+                            "group": "Ekstraklasa",
+                            "form": "WWWLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 15,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 32
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 9
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 349,
+                                "name": "Piast Gliwice",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/349.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": 7,
+                            "group": "Ekstraklasa",
+                            "form": "WWWDW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 13,
+                                "draw": 8,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 32
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 13
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 341,
+                                "name": "Wisla Plock",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/341.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": 1,
+                            "group": "Ekstraklasa",
+                            "form": "WLWWL",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 14,
+                                "draw": 3,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 10,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 1,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 4248,
+                                "name": "Radomiak Radom",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/4248.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": 5,
+                            "group": "Ekstraklasa",
+                            "form": "LLDDD",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 10,
+                                "draw": 13,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 31
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 17
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 350,
+                                "name": "Cracovia Krakow",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/350.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -2,
+                            "group": "Ekstraklasa",
+                            "form": "WWLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 11,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 38
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 340,
+                                "name": "Gornik Zabrze",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/340.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -1,
+                            "group": "Ekstraklasa",
+                            "form": "WLLLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 11,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 339,
+                                "name": "Legia Warszawa",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/339.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -6,
+                            "group": "Ekstraklasa",
+                            "form": "LLDWD",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 41
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 8,
+                                "draw": 0,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 3496,
+                                "name": "Warta Pozna\u0144",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/3496.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -5,
+                            "group": "Ekstraklasa",
+                            "form": "LWWLW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 9,
+                                "draw": 9,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 33
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 336,
+                                "name": "Jagiellonia",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/336.png"
+                            },
+                            "points": 34,
+                            "goalsDiff": -12,
+                            "group": "Ekstraklasa",
+                            "form": "LLDWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 8,
+                                "draw": 10,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 3493,
+                                "name": "Stal Mielec",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/3493.png"
+                            },
+                            "points": 33,
+                            "goalsDiff": -10,
+                            "group": "Ekstraklasa",
+                            "form": "LLLLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 8,
+                                "draw": 9,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 337,
+                                "name": "Slask Wroclaw",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/337.png"
+                            },
+                            "points": 32,
+                            "goalsDiff": -9,
+                            "group": "Ekstraklasa",
+                            "form": "LDDLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 7,
+                                "draw": 11,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 345,
+                                "name": "Zaglebie Lubin",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/345.png"
+                            },
+                            "points": 31,
+                            "goalsDiff": -21,
+                            "group": "Ekstraklasa",
+                            "form": "LLWLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 338,
+                                "name": "Wisla Krakow",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/338.png"
+                            },
+                            "points": 29,
+                            "goalsDiff": -14,
+                            "group": "Ekstraklasa",
+                            "form": "LDWDL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 30,
+                                "win": 7,
+                                "draw": 8,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 3487,
+                                "name": "Nieciecza",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/3487.png"
+                            },
+                            "points": 27,
+                            "goalsDiff": -20,
+                            "group": "Ekstraklasa",
+                            "form": "WLLDD",
+                            "status": "up",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 30,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 6941,
+                                "name": "G\u00f3rnik \u0141\u0119czna",
+                                "logo": "https:\/\/media.api-sports.io\/football\/teams\/6941.png"
+                            },
+                            "points": 27,
+                            "goalsDiff": -28,
+                            "group": "Ekstraklasa",
+                            "form": "LLWLL",
+                            "status": "down",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 31,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2022-04-25T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+.league-content
+{
+    width:150px;
+    height:150px;
+    /*padding: 5px;*/
+    /*border: 1px solid rgba(0, 0, 0, 0.125);*/
+
+}
+.border-its{
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+}
+.league-img
+{   padding: 5px;
+    max-height:100%;
+    max-width:100%;
+}
+
+.t-left{
+    text-align: left;
+}
+
+.a\.league-name{
+    width:150px;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.bg--W {
+    text-align: center;
+    width: 28px;
+    height: 23px;
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+}
+.bg--L {
+    text-align: center;
+    width: 28px;
+    height: 23px;
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-danger-rgb), var(--bs-bg-opacity)) !important;
+}
+.bg--D {
+    text-align: center;
+    width: 28px;
+    height: 23px;
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-warning-rgb), var(--bs-bg-opacity)) !important;
+}
+
+td{
+    overflow: auto;
+}
+
+.img-logo{
+    max-width: 25px;
+    max-height: 25px;
+
+}
+
+.table-scrollable {
+    overflow: auto;
+    white-space: nowrap;
+    max-width: max-content;
+    box-shadow: inset 0 0 5px rgba(150, 150 ,150,0.35);
+    margin: auto;
+}
+

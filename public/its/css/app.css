@@ -1,0 +1,616 @@
+.border-bottom {
+    border-bottom: 1px solid #003399;
+}
+
+
+body {
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.w22 {
+    width: 22%;
+}
+
+.mainTable {
+    border-top: 1px solid #003399;
+    border-left: 1px solid #003399;
+    border-right: 1px solid #003399;
+    width: 740px;
+    background: #fff url(/public/img/section.jpeg) no-repeat top right;
+    margin: 0px auto;
+    text-align: left;
+}
+
+.mainTable tr td {
+    padding: 4px;
+}
+
+body, td, th {
+    font-size: 11px;
+    color: #000;
+    position: inherit;
+}
+
+a, a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: #821517;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #821517;
+    text-decoration: underline;
+}
+
+.navigation {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    border: 1px solid #003399;
+    background: #fff url(../img/section.jpeg) no-repeat top right;
+}
+
+.navigation a, .navigation a:hover {
+    padding: 4px;
+    margin: 6px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    display: block;
+    color: #000000;
+    border: 1px solid #FFFFFF;
+    background: #fff url(../img/section.jpeg) no-repeat top right;
+}
+
+.navigation a:hover {
+    padding: 4px;
+    text-decoration: none;
+    color: #821517;
+    background: #fff url(../gif/buttonbar.gif) repeat-x top;
+    border: 1px solid #003399;
+}
+
+.headers {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.headers a, .headers a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.highLight {
+    background: #fff url(../gif/buttonbar.gif) repeat-x top;
+    font-weight: bold;
+    border: solid 1px #000000;
+}
+
+.fancyRow {
+    background: #fff url(../gif/buttonbar.gif) repeat-x top;
+}
+
+.fancyRow2 {
+    background: #fff url(../gif/buttonbar.gif) repeat-x top;
+}
+
+body {
+    background: #fff url(../img/treeback.jpeg) repeat-x top;
+}
+
+
+.border-top-bottom {
+    border-top: 1px solid #003399;
+    border-bottom: 1px solid #003399;
+}
+
+.navigationHead {
+    text-align: center;
+    font-weight: bold;
+    border-top: 1px solid #003399;
+    border-left: 1px solid #003399;
+    border-right: 1px solid #003399;
+}
+
+.smallText {
+    font-size: 9px;
+}
+
+.text {
+    width: 154px;
+}
+
+img {
+    border: 0px;
+}
+
+
+ul {
+    margin: 0px 0px 0px 20px;
+
+}
+
+.silent {
+    color: #000000;
+    text-decoration: none;
+}
+
+.silent:hover {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+.logoBox {
+    padding: 4px;
+    margin: 4px;
+    border: 1px solid #003399;
+    background: #FFFFFF;
+}
+
+fieldset {
+    padding: 5px;
+}
+
+legend {
+    font-weight: bold
+}
+
+legend a, legend a:hover {
+    display: block;
+    text-decoration: none;
+}
+
+.u {
+    text-decoration: underline;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.content {
+    width: auto;
+    height: auto;
+    border: solid 1px black;
+    margin: 0 auto;
+}
+
+.mono {
+    font-family: "Courier New", Courier, mono, sans-serif;
+}
+
+td.basic {
+    background-color: #FFFFFF;
+    vertical-align: top;
+}
+
+.fauxbutton {
+    font: 11px Verdana, Tahoma, Arial, Trebuchet MS, Sans-Serif, Georgia, Courier, Times New Roman, Serif;
+    border: 1px solid #003399;
+    background-color: #F7CC76;
+    padding: 2px;
+    color: #000000;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 13px;
+    color: #003399;
+    margin-bottom: 6px;
+}
+
+.boldtitle {
+    font-size: 12px;
+    font-weight: bold;
+    color: #003399;
+    /*margin-left: 0px;*/
+    margin-top: 4px;
+    /*margin-right: 0px;*/
+    margin-bottom: 4px;
+}
+
+p.notop {
+    margin-top: 0px;
+}
+
+acronym {
+    cursor: hand;
+    border-bottom: dashed 1px #000000;
+}
+
+#countdown1 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.leagueContent {
+    width: auto;
+    height: auto;
+    margin-left: 85px;
+    position: absolute;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.leagueLogo {
+
+    width: 150px;
+    height: 150px;
+    margin: 10px 20px 10px 10px;
+    padding: 5px;
+    float: left;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px black solid;
+}
+
+.leagueInfo {
+    width: 200px;
+    height: auto;
+    margin: 27px 5px 5px 5px;
+    float: left;
+    border: 1px black solid;
+}
+
+.leagueMenu {
+    width: 40px;
+    height: 20px;
+    display: grid;
+    margin: 190px 258px;
+    position: absolute;
+    text-align: center;
+    /*border: 1px black solid;*/
+
+}
+
+.leagues_contents {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    /*margin: 10px auto 10px 25px;*/
+    padding: 4px;
+    float: left;
+    text-align: center;
+}
+
+.h1_ {
+    width: auto;
+    height: auto;
+    margin: 170px auto;
+    border: 1px solid;
+    text-align: center;
+}
+
+.leagues_contents img {
+    width: auto;
+    height: auto;
+}
+
+.tr_class_logo {
+    width: auto;
+    height: auto;
+
+}
+
+.league_menu_table {
+    margin-right: auto;
+    margin-left: auto;
+    border-spacing: 1em .5em;
+}
+
+.th_leagues_name {
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin: 5px 5px 5px 5px;
+}
+
+
+.body {
+    background: #eee
+}
+
+.height {
+    height: 100vh
+}
+
+
+.team_content, .leaders_content {
+    width: 550px;
+    height: auto;
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.team_logo {
+    margin: 10px;
+    width: auto;
+    height: auto;
+    float: left;
+    border: 1px solid black;
+
+}
+
+.team_information {
+    margin: 10px;
+    width: 250px;
+    height: auto;
+    float: left;
+    /*border: 1px solid black;*/
+
+}
+
+.team_goals_score {
+    width: auto;
+    padding: 2px;
+    height: auto;
+    float: left;
+}
+
+
+.td_team {
+    width: auto;
+    height: auto;
+    display: block;
+
+}
+
+td.td_points, td.td_played {
+    text-align: center;
+}
+
+.h3_team {
+    margin: 10px 37px;
+    width: auto;
+    float: left;
+
+}
+
+.team_home_goals, .team_away_goals, .team_all_goals {
+    width: auto;
+    height: auto;
+    margin-left: 15px;
+    float: left;
+    text-align: -webkit-center;
+}
+
+.leagues_contents_box {
+    width: auto;
+    height: 194px;
+    float: left;
+    margin-left: 18px;
+    margin-top: 15px;
+}
+
+.tr_table_league {
+    text-align: center;
+}
+
+.th_headers {
+    border: solid 1px black;
+}
+
+.th_table {
+    text-align: center;
+    border: solid 1px black;
+}
+
+.th_team {
+    border: solid 1px black;
+}
+
+.td_table {
+    text-align: center;
+    font-weight: bold;
+}
+
+.td_league_name {
+    text-align: left;
+}
+
+
+.leader_logo {
+    width: 25px;
+    height: 25px;
+    border: solid 1px black;
+}
+
+.table_team_logo {
+
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+
+}
+
+table.league_table {
+    margin: 250px auto;
+}
+
+.leader_flag {
+    width: 20px;
+    height: 20px;
+}
+
+
+.form {
+    margin: 0;
+    padding: 0;
+}
+
+.form--W {
+
+    width: 13px;
+    height: 13px;
+    border-radius: 100%;
+    background-color: green;
+    font-weight: bold;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    display: table-cell;
+
+
+}
+
+.form--L {
+    width: 13px;
+    height: 13px;
+    border-radius: 100%;
+    background-color: red;
+    font-weight: bold;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    display: table-cell;
+
+}
+
+.form--D {
+    width: 13px;
+    height: 13px;
+    border-radius: 100%;
+    background-color: orange;
+    font-weight: bold;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    display: table-cell;
+}
+
+ul.league_ul_list {
+    font-size: 15px;
+    list-style-type: disc;
+
+}
+
+
+.team_maintenance {
+
+    position: relative;
+    top: -2px;
+    content: "-";
+    display: inline-block;
+    width: 6px;
+    height: 10px;
+    border-right: 0.2em solid orange;
+    /*border-top: 0.2em solid orange;*/
+    transform: rotate(90deg);
+    /*margin-right: 0.5em;*/
+    margin-left: 6px;
+    float: left;
+}
+
+.team_drop {
+
+    position: relative;
+    top: 1px;
+    content: "";
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-right: 0.2em solid red;
+    border-top: 0.2em solid red;
+    transform: rotate(135deg);
+    /*margin-right: 0.5em;*/
+    /*margin-left: 0.0em;*/
+    float: left;
+
+}
+
+.team_promotion {
+    color: green;
+    position: relative;
+    top: 4px;
+    content: "";
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-right: 0.2em solid green;
+    border-top: 0.2em solid green;
+    transform: rotate(-45deg);
+    margin-right: 1px;
+    /*margin-left: 1.0em;*/
+    float: left;
+}
+
+.p {
+    color: green;
+
+}
+
+.d {
+    color: red;
+}
+
+.m {
+    color: orange;
+}
+.teams_table{
+    margin-top: 125px;
+}
+.letter{
+    width: 20px;
+    height: 16px;
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+    margin: 14px 14px 14px 14px;
+}
+
+.table_body {
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+}
+span.s\.letter{
+    margin: auto;
+}
+
+.top_league_goals{
+    height: auto;
+    width: 450px;
+    border: 1px solid black;
+    margin: 10px auto;
+    text-align: center;
+    /*position: absolute;*/
+    padding: 20px;
+
+}
+
+.home_content{
+    width: auto;
+    height: auto;
+    margin: auto;
+    border: 1px solid black;
+    /*float: left;*/
+}
+.top_box1 {
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin: auto;
+    border: 1px solid black;
+
+}
+.top_box2 {
+    width: 300px;
+    height: 200px;
+    /*float: left;*/
+    margin: auto;
+    border: 1px solid black;
+
+}
