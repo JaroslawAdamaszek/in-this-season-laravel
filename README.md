@@ -27,5 +27,6 @@ Link do projektu :
 * MySql
 * HTML/CSS/Bootstrap
 * Git
+* Docker
 * PhpStorm
 
